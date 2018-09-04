@@ -1,38 +1,4 @@
-/* Smartphones (landscape) --  --  --  --  -- - */
 
-@media screen and (min-width: 321px) {
-	/* Styles */
-}
-
-
-/* Smartphones (portrait) --  --  --  --  -- - */
-
-@media screen and (max-width: 320px) {
-	/* Styles */
-}
-
-
-/* iPads (portrait and landscape) --  --  --  --  -- - */
-
-@media screen and (min-width: 668px) and (max-width: 1223px) {
-	/* Styles */
-)	
-
-/* iPads (landscape) --  --  --  --  -- - */
-
-@media screen and (min-width: 668px) and (max-width: 1223px) and (orientation: landscape) {
-	
-}
-
-/* iPads (portrait) --  --  --  --  -- - */
-
-@media screen and (min-width: 668px) and (max-width: 1223px) and (orientation: portrait) {
-	/* Styles */
-}
-
-/* Desktops and laptops --  --  --  --  -- - */
-
-@media screen and (min-width: 1224px) {
 	.button-buttom {
 		text-decoration: none !important;
 		position: fixed;
@@ -162,4 +128,4 @@
 	}
 	#subscribe .msg-1-bg {
 	background:#0969c3;
-}
+	}
